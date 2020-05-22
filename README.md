@@ -10,6 +10,8 @@ In the Scene *Room windzone test* ,   rotate the game object **Wind.Remote.contr
 A tree on the terrane is just for a visualisation of wind. 
 Red object can be blown out.
 
+Screenshot:
+![2020-05-22](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/Screen%20Shot%202020-05-22%20at%205.47.39%20PM.png "screenshot")
 ## next step:
 - to build a wind chime with rope rigging?
 - collision programming
