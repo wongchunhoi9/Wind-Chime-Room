@@ -1,16 +1,30 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+# Wind Chime Room (Title TBC)
 
-\f0\fs24 \cf0 ## First build by trying out this Tutorial Video: https://www.youtube.com/watch?v=iD_iwP-jkeM&fbclid=IwAR0ZCGORwru2Qr_halsAM-7sWvv2-HD8vOhaw7ELiTr1pmhu37ARhy3SAbM\
-\
-In the Scene *Room windzone test* ,   rotate the game object \'93WindRemote.Control\'94 to move around the wind direction.\
-A tree on the terrane is just for a visualisation of wind. \
-Red object can be blown out.\
-\
-## next step:\
-- to build a wind chime with rope rigging?\
-- collision programming}
+[working note](https://www.notion.so/ioior/idea-Room-wind-chime-playlist-experiential-website-56e650d1bd464ef7ba0dafb3d4a9bb66)
+## First build by trying out this Tutorial Video: 
+
+*Unity 3D / 5 - Wind and RigidBody (Download)*
+[Video link](https://www.youtube.com/watch?v=iD_iwP-jkeM&fbclid=IwAR0ZCGORwru2Qr_halsAM-7sWvv2-HD8vOhaw7ELiTr1pmhu37ARhy3SAbM\)
+
+In the Scene *Room windzone test* ,   rotate the game object **Wind.Remote.control** to move around the wind direction.
+A tree on the terrane is just for a visualisation of wind. 
+Red object can be blown out.
+
+## next step:
+- to build a wind chime with rope rigging?
+- collision programming
+
+
+## keywords might be useful for 3D builder beginner: 
+- 
+
+## Prototype Prototype version idea
+
+1. Unity 2019
+2. tree objects (response to wind)  ← need to know how rigid body can collide with wind 
+3. or else, assume it is a particle system (like fluid or gas but with transparent texture) 
+4. need a inter-collision system in the particles? 
+5. room wall & obstacle are rigid body
+6. try **wind tunnel** for 3D environment?  ← keywords that articulating between obstacle and wind flow 
+7. each pole should be able to interact with each other as well. 
+8. ?
