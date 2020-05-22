@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{65B29679-A6CB-D7F2-FB9D-D1B479F871ED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/chimecollision.cs">
+    <Files>
+      <File FileName="Assets/chimecollision.cs" Line="9" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Wind Rigid body trial" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="70db3a49-c1ed-43d3-8aa7-e4d6455d0c90" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
