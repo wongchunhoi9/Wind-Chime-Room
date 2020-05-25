@@ -11,7 +11,16 @@ A tree on the terrane is just for a visualisation of wind.
 Red object can be blown out.
 
 Screenshot:
-![2020-05-22](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/Screen%20Shot%202020-05-22%20at%205.47.39%20PM.png "screenshot")
+![2020-05-22](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/P8-in-progress-1.png "screenshot")
+![2020-05-25](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/P8-in-progress-2.png "screenshot")
+
+## updated on 2020-05-20
+Using *Joint* in Unity to connect the objects and manipulated by a adding-force-WIND windzone Object
+3 pipes has been added an audio source to just trigger on collision
+more fine tune soon and layout of the room later this week. 
+
+
+
 ## next step:
 - to build a wind chime with rope rigging?
 - collision programming
@@ -22,11 +31,12 @@ Screenshot:
 
 ## Prototype Prototype version idea
 
-1. Unity 2019
+1. Unity Version 2018.2.20
 2. tree objects (response to wind)  ← need to know how rigid body can collide with wind 
 3. or else, assume it is a particle system (like fluid or gas but with transparent texture) 
-4. need a inter-collision system in the particles? 
+4. need a inter-collision system in the particles?   
 5. room wall & obstacle are rigid body
 6. try **wind tunnel** for 3D environment?  ← keywords that articulating between obstacle and wind flow 
 7. each pole should be able to interact with each other as well. 
 8. ?
+
