@@ -15,7 +15,9 @@ Screenshot:
 ![2020-05-25](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/P8-in-progress-2.png "screenshot")
 
 ## update on 2020-05-26
-**Shuruken Particle system** in Unity   /[Create -> Effect -> Particle System/] 
+virtual ***Wind*** force by particle system
+
+   ->**Shuruken Particle system** in Unity   /[Create -> Effect -> Particle System/] 
 check-box  
 - [x] collision , add a collision force there
 - [x] external force 
