@@ -14,7 +14,14 @@ Screenshot:
 ![2020-05-22](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/P8-in-progress-1.png "screenshot")
 ![2020-05-25](https://raw.githubusercontent.com/wongchunhoi9/Wind-Chime-Room/master/P8-in-progress-2.png "screenshot")
 
-## updated on 2020-05-20
+## update on 2020-05-26
+**Shuruken Particle system** in Unity   /[Create -> Effect -> Particle System/] 
+check-box  
+- [x] collision , add a collision force there
+- [x] external force 
+- [x] reaction with 3D world
+
+## updated on 2020-05-25
 Using *Joint* in Unity to connect the objects and manipulated by a adding-force-WIND windzone Object
 3 pipes has been added an audio source to just trigger on collision
 more fine tune soon and layout of the room later this week. 
