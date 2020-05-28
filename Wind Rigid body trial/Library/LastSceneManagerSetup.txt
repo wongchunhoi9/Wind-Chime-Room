@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/windZones rigid csharp/Room windzone test.unity
+- path: Assets/windZones rigid csharp/corridor with door.unity
   isLoaded: 1
   isActive: 1

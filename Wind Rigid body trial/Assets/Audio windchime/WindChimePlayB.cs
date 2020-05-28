@@ -23,6 +23,6 @@ public class WindChimePlayB : MonoBehaviour {
             audioSource.volume = collision.relativeVelocity.magnitude / 20;
             audioSource.Play();
         }
-            
+                
     }
 }
